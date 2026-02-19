@@ -152,6 +152,7 @@ sensor-scd30 = "glasgow.applet.sensor.scd30:SensorSCD30Applet"
 display-hd44780 = "glasgow.applet.display.hd44780:DisplayHD44780Applet"
 
 audio-dac = "glasgow.applet.audio.dac:AudioDACApplet"
+audio-i2s-input = "glasgow.applet.audio.i2s_input:I2SInputApplet"
 audio-yamaha-opx = "glasgow.applet.audio.yamaha_opx:AudioYamahaOPxApplet [http]"
 
 video-hub75-output = "glasgow.applet.video.hub75_output:VideoHub75OutputApplet"
